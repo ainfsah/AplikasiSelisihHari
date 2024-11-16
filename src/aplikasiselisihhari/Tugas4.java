@@ -299,7 +299,7 @@ public class Tugas4 extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-         int response = javax.swing.JOptionPane.showConfirmDialog(
+        int response = javax.swing.JOptionPane.showConfirmDialog(
         this, 
         "Pian yakin lah keluar?",  
         "Konfirmasi Keluar",       
