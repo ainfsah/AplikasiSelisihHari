@@ -41,7 +41,5 @@ Aplikasi ini adalah aplikasi desktop sederhana yang dirancang untuk menghitung s
 
 
 ## Catatan
-- Pastikan Java JDK telah terinstal di komputer Anda sebelum menjalankan aplikasi ini.
-- Jika menggunakan IDE seperti NetBeans, tambahkan pustaka `toedter.calendar.JCalendar` untuk mendukung komponen kalender.
 - Aplikasi ini hanya menghitung jumlah hari secara tepat antara dua tanggal, tanpa memperhitungkan waktu atau zona waktu.
 
