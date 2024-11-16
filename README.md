@@ -37,7 +37,7 @@ Aplikasi ini adalah aplikasi desktop sederhana yang dirancang untuk menghitung s
 **2210010043**
 
 ## Demo
-![Demo Aplikasi]()
+![Demo Aplikasi](img/penghitungHariiii..gif)
 
 
 ## Catatan
